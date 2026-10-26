@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_ZERNIO_API_KEY",
+  "account_id": "YOUR_THREADS_ACCOUNT_ID",
+  "platform": "threads"
+}
